@@ -335,6 +335,10 @@ footer > div > nav > a {
     padding: .5rem;
 }
 
+.footer2 > nav > a {
+    color: #0a886a;
+}
+
 .copyright {
     font-size: .7rem;
     color: #64ffda;
