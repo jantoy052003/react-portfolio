@@ -10,7 +10,7 @@ const ContactMe = () => {
             <form>
                 <input type="text" placeholder="Email Address"/>
                 <textarea cols="30" rows="10" placeholder="Message"></textarea>
-                <button id="send" onclick="mailTo()"> SEND</button>
+                <a href="mailto:janmichaelcaasi@gmail.com" target="_blank"><button id="send"> SEND</button></a>
             </form>
             </div>
         </div>
